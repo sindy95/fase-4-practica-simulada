@@ -1,0 +1,22 @@
+[2026-05-10 01:35:31.262045] - --- INICIO DE SIMULACIÓN ---
+[2026-05-10 01:35:31.263046] - Ingreso de cliente exitoso
+[2026-05-10 01:35:31.263046] - Operación 2 fallida: El cliente debe ser mayor de edad (18+).
+[2026-05-10 01:35:31.264047] - Operación 3 fallida: El nombre no puede estar vacío o ser muy corto.
+[2026-05-10 01:35:31.264047] - Reserva ingresada correctamente
+[2026-05-10 01:35:31.265046] - Reserva confirmada
+[2026-05-10 01:35:31.266046] - Proceso de confirmacion realizado
+[2026-05-10 01:35:31.266046] - Operación 5 fallida: Las horas deben ser mayores a 0
+[2026-05-10 01:35:31.266046] - Reserva ingresada correctamente
+[2026-05-10 01:35:31.267046] - error al confirmar reserva: AlquilerEquipo.calcular_costo() got an unexpected keyword argument 'descuento'
+[2026-05-10 01:35:31.267046] - Proceso de confirmacion realizado
+[2026-05-10 01:35:31.267046] - Operación 6 fallida: No se pudo confirmar la reserva
+[2026-05-10 01:35:31.268045] - Operación 7 fallida: El objeto no es un Cliente válido.
+[2026-05-10 01:35:31.268045] - Operación 8 fallida: El servicio Asesoría con Redes está inactivo.
+[2026-05-10 01:35:31.269045] - error al confirmar reserva: can't multiply sequence by non-int of type 'NoneType'
+[2026-05-10 01:35:31.269045] - Proceso de confirmacion realizado
+[2026-05-10 01:35:31.270046] - Operación 9 fallida: No se pudo confirmar la reserva
+[2026-05-10 01:35:31.271048] - Ingreso de cliente exitoso
+[2026-05-10 01:35:31.271048] - Reserva ingresada correctamente
+[2026-05-10 01:35:31.272047] - error al confirmar reserva: unsupported operand type(s) for *: 'int' and 'NoneType'
+[2026-05-10 01:35:31.272047] - Proceso de confirmacion realizado
+[2026-05-10 01:35:31.272047] - Operación 10 fallida: No se pudo confirmar la reserva
